@@ -1,0 +1,8 @@
+Build Requirements
+==================
+UnityEngine.dll        - from That Level Again_Data/Managed/
+Assembly-CSharp.dll    - from That Level Again_Data/Managed/
+BepInEx.dll            - from BepInEx/core/
+0Harmony.dll           - from BepInEx/core/
+==================
+Add these as References in Visual Studio, then Build.
