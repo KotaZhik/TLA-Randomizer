@@ -3,6 +3,10 @@
 Randomizer is a mod for the That Level Again series (TLA1 and TLA2) that completely shuffles the level order.
 Every time you complete a level or touch a teleport, the game loads a random level!
 
+> ⚠️ **REQUIRES ORIGINAL GAME:** This mod does NOT include game files. You must own the game on Steam:
+> - [That Level Again](https://store.steampowered.com/app/3337220/That_Level_Again/)
+> - [That Level Again 2](https://store.steampowered.com/app/3337220/That_Level_Again_2/)
+
 ## Installation (TLA 1)
 
 1. **Download the mod:** Get the latest `Randomizer.dll` from the [Releases page](https://github.com/KotaZhik/TLA-Randomizer/releases).
@@ -17,4 +21,7 @@ Every time you complete a level or touch a teleport, the game loads a random lev
 
 For That Level Again 2, the installation is identical. Just copy the BepInEx folder into the TLA2 game folder and follow the same steps.
 
-**Discord: [That Level Again Legacy](https://discord.gg/KSdXdbVqPZ)**
+## 💬 Community & Bug Reports
+
+Found a bug or have a suggestion? Join the Discord server:
+[That Level Again Legacy](https://discord.gg/KSdXdbVqPZ)
