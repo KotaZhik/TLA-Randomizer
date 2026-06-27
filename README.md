@@ -5,7 +5,7 @@ Every time you complete a level or touch a teleport, the game loads a random lev
 
 > ⚠️ **REQUIRES ORIGINAL GAME:** This mod does NOT include game files. You must own the game on Steam:
 > - [That Level Again](https://store.steampowered.com/app/3337220/That_Level_Again/)
-> - [That Level Again 2](https://store.steampowered.com/app/3337220/That_Level_Again_2/)
+> - [That Level Again 2](https://store.steampowered.com/app/4008290/That_Level_Again_2/)
 
 ## Installation (TLA 1)
 
